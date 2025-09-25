@@ -1,0 +1,17 @@
+*.user
+*.suo
+
+# IDE
+.vs/
+
+# Output artifacts
+obj/
+bin/
+
+# schema approve backup files
+*.received.*
+*.bak
+
+# Coverage report
+TestResults/
+coveragereport/
